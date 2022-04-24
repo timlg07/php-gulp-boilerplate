@@ -1,6 +1,6 @@
 # PHP Gulp Boilerplate
 
-Will run a PHP server with BrowserSync, Sass support, and ES6 Javascript with jQuery.
+Will run a PHP server with BrowserSync, Sass support, and ES6 Javascript.
 
 #### Install your modules
 ```
